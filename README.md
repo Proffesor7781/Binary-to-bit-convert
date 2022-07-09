@@ -1,4 +1,4 @@
-# Binary-to-bit-convert
+
 #include<iostream>
 #include<math.h>
 using namespace std;
